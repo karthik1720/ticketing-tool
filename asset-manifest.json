@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ticketing-tool/static/css/main.88e67e65.css",
-    "main.js": "/ticketing-tool/static/js/main.886b5bfb.js",
+    "main.js": "/ticketing-tool/static/js/main.e4028200.js",
     "index.html": "/ticketing-tool/index.html",
     "main.88e67e65.css.map": "/ticketing-tool/static/css/main.88e67e65.css.map",
-    "main.886b5bfb.js.map": "/ticketing-tool/static/js/main.886b5bfb.js.map"
+    "main.e4028200.js.map": "/ticketing-tool/static/js/main.e4028200.js.map"
   },
   "entrypoints": [
     "static/css/main.88e67e65.css",
-    "static/js/main.886b5bfb.js"
+    "static/js/main.e4028200.js"
   ]
 }
